@@ -40,10 +40,7 @@ Desarrollo de un bot para el juego Onitama utilizando **Minimax con poda alfa-be
 
 ## Estadísticas de GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danielci3&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielci3&layout=compact&theme=default&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Danielci3&theme=github-compact&hide_border=true" />
 
 ---
 
