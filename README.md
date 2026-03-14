@@ -22,16 +22,8 @@ Actualmente me estoy formando en algoritmos, estructuras de datos, desarrollo de
 
 ## Proyectos destacados
 
-🔹 **AIDoctor**  
-Proyecto de aprendizaje automático para predecir el riesgo de enfermedades cardíacas utilizando datasets de los CDC.  
-Comparación entre un **perceptrón simple** y una **red neuronal** para evaluar rendimiento predictivo.
-
-🔹 **Juego OSO en Java**  
-Implementación completa del juego **OSO** utilizando programación orientada a objetos.  
-Incluye versión con **interfaz gráfica (Swing)** y una versión **multijugador cliente-servidor usando sockets**.
-
-🔹 **Algoritmo genético – Problema de las n reinas**  
-Implementación de un algoritmo genético para resolver el problema de optimización de las **n reinas**, incluyendo operadores de selección, cruzamiento y mutación.
+🔹 **Tower Defense**  
+Implementación de un Tower Defense con temática de frutas, usando HTML, JS y CSS.
 
 🔹 **Bot de Onitama**  
 Desarrollo de un bot para el juego Onitama utilizando **Minimax con poda alfa-beta**, optimizado para ejecutarse en menos de 50 ms por turno.
