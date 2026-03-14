@@ -1,41 +1,57 @@
 # Daniel Chueca Irisarri
 
-**Estudiante de Ingeniería Informática (3º) en la UPNA**  
-Interesado en inteligencia artificial, *machine learning* y desarrollo de software.
+Estudiante de **Ingeniería Informática (3º)** en la **Universidad Pública de Navarra (UPNA)**.  
+Interesado en **inteligencia artificial, machine learning y desarrollo de software**, con especial atención a la construcción de soluciones prácticas y eficientes.
 
-Soy estudiante de 3º de Ingeniería Informática en la Universidad Pública de Navarra (UPNA).  
-Me estoy formando con una base sólida en programación, estructuras de datos y desarrollo de aplicaciones, con el objetivo de crecer como ingeniero de software orientado a sistemas inteligentes y soluciones útiles en entornos reales.
-
----
-
-## Perfil
-
-- 🎓 3º de Ingeniería Informática — **UPNA**
-- 🧠 Intereses principales: **IA**, **machine learning**, **desarrollo de software**
-- 🌍 Idiomas: **español** (nativo), **inglés** (B2)
+Actualmente me estoy formando en algoritmos, estructuras de datos, desarrollo de aplicaciones y técnicas de aprendizaje automático, desarrollando proyectos propios para consolidar conocimientos y ganar experiencia práctica.
 
 ---
 
-## Stack tecnológico
+## Tecnologías
 
-### Lenguajes y tecnologías
+### Lenguajes
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Otras tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+🔹 **AIDoctor**  
+Proyecto de aprendizaje automático para predecir el riesgo de enfermedades cardíacas utilizando datasets de los CDC.  
+Comparación entre un **perceptrón simple** y una **red neuronal** para evaluar rendimiento predictivo.
+
+🔹 **Juego OSO en Java**  
+Implementación completa del juego **OSO** utilizando programación orientada a objetos.  
+Incluye versión con **interfaz gráfica (Swing)** y una versión **multijugador cliente-servidor usando sockets**.
+
+🔹 **Algoritmo genético – Problema de las n reinas**  
+Implementación de un algoritmo genético para resolver el problema de optimización de las **n reinas**, incluyendo operadores de selección, cruzamiento y mutación.
+
+🔹 **Bot de Onitama**  
+Desarrollo de un bot para el juego Onitama utilizando **Minimax con poda alfa-beta**, optimizado para ejecutarse en menos de 50 ms por turno.
 
 ---
 
 ## Estadísticas de GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danielci3&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de Danielci3" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielci3&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados por Danielci3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danielci3&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielci3&layout=compact&theme=default&hide_border=true" />
 </p>
+
+---
+
+## Actualmente
+
+- Desarrollando proyectos en **Java y Python**
+- Profundizando en **machine learning**
+- Mejorando mi portfolio de proyectos
 
 ---
 
@@ -45,4 +61,4 @@ Me estoy formando con una base sólida en programación, estructuras de datos y 
 
 ---
 
-Gracias por visitar mi perfil
+Siempre abierto a seguir aprendiendo y colaborar en proyectos interesantes.
